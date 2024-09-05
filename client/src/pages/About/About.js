@@ -14,7 +14,7 @@ const About = () => {
       <div className="pb-10">
         <h1 className="max-w-[600px] text-base text-lightText mb-2">
           <span className="text-primeColor font-semibold text-lg">Orebi</span>{" "}
-          is one of the world's leading ecommerce brands and is internationally
+          is one of the world's leading e-commerce brands and is internationally
           recognized for celebrating the essence of classic Worldwide cool
           looking style.
         </h1>
