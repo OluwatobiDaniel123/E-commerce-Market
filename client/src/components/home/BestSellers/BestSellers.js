@@ -20,7 +20,8 @@ const BestSellers = () => {
           price="35.00"
           color="Blank and White"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des=" Whether you're looking for the latest fashion trends, cutting-edge
+            tech gadgets, or everyday essentials, we've got you covered."
         />
         <Product
           _id="1012"
@@ -29,7 +30,8 @@ const BestSellers = () => {
           price="180.00"
           color="Gray"
           badge={false}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des=" Whether you're looking for the latest fashion trends, cutting-edge
+            tech gadgets, or everyday essentials, we've got you covered."
         />
         <Product
           _id="1013"
@@ -38,7 +40,8 @@ const BestSellers = () => {
           price="25.00"
           color="Mixed"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des=" Whether you're looking for the latest fashion trends, cutting-edge
+            tech gadgets, or everyday essentials, we've got you covered."
         />
         <Product
           _id="1014"
@@ -47,7 +50,8 @@ const BestSellers = () => {
           price="220.00"
           color="Black"
           badge={false}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des=" Whether you're looking for the latest fashion trends, cutting-edge
+            tech gadgets, or everyday essentials, we've got you covered."
         />
       </div>
     </div>

@@ -58,7 +58,8 @@ const NewArrivals = () => {
             price="44.00"
             color="Black"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des=" Whether you're looking for the latest fashion trends, cutting-edge
+            tech gadgets, or everyday essentials, we've got you covered."
           />
         </div>
         <div className="px-2">
@@ -69,7 +70,8 @@ const NewArrivals = () => {
             price="250.00"
             color="Black"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des=" Whether you're looking for the latest fashion trends, cutting-edge
+            tech gadgets, or everyday essentials, we've got you covered."
           />
         </div>
         <div className="px-2">
@@ -80,7 +82,8 @@ const NewArrivals = () => {
             price="80.00"
             color="Mixed"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des=" Whether you're looking for the latest fashion trends, cutting-edge
+            tech gadgets, or everyday essentials, we've got you covered."
           />
         </div>
         <div className="px-2">
@@ -91,7 +94,8 @@ const NewArrivals = () => {
             price="60.00"
             color="Mixed"
             badge={false}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des=" Whether you're looking for the latest fashion trends, cutting-edge
+            tech gadgets, or everyday essentials, we've got you covered."
           />
         </div>
         <div className="px-2">
@@ -102,7 +106,8 @@ const NewArrivals = () => {
             price="60.00"
             color="Mixed"
             badge={false}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des=" Whether you're looking for the latest fashion trends, cutting-edge
+            tech gadgets, or everyday essentials, we've got you covered."
           />
         </div>
       </Slider>

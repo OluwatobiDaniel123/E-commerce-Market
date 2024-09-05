@@ -34,8 +34,14 @@ const Footer = () => {
           <FooterListTitle title=" More about Orebi Shop" />
           <div className="flex flex-col gap-6">
             <p className="text-base w-full xl:w-[80%]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim sint
-              ab ullam, numquam nesciunt in.
+              Orebi is the ultimate destination for all your shopping needs.
+              With a wide range of high-quality products, easy-to-use
+              navigation, and secure payment options, we make online shopping
+              simple and enjoyable. Whether you're looking for the latest
+              fashion trends, cutting-edge tech gadgets, or everyday essentials,
+              we've got you covered. Plus, with fast shipping, exclusive deals,
+              and excellent customer service, your satisfaction is our priority.
+              Shop with confidence and discover the best at Orebi today!
             </p>
             <ul className="flex items-center gap-2">
               <a
@@ -121,7 +127,8 @@ const Footer = () => {
           <FooterListTitle title="Subscribe to our newsletter." />
           <div className="w-full">
             <p className="text-center mb-4">
-              A at pellentesque et mattis porta enim elementum.
+              make subscription now so you can be getting our newsletter
+              everyday.
             </p>
             {subscription ? (
               <motion.p

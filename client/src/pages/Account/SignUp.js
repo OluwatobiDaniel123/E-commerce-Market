@@ -151,8 +151,8 @@ const SignUp = () => {
                 Get started fast with OREBI
               </span>
               <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab omnis
-              nisi dolor recusandae consectetur!
+              Sign up to access your account, track your orders, and enjoy
+              personalized shopping.
             </p>
           </div>
           <div className="w-[300px] flex items-start gap-3">
@@ -164,8 +164,8 @@ const SignUp = () => {
                 Access all OREBI services
               </span>
               <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab omnis
-              nisi dolor recusandae consectetur!
+              Sign up also to enjoy faster checkout and exclusive deals and
+              enjoy your shopping.
             </p>
           </div>
           <div className="w-[300px] flex items-start gap-3">
@@ -177,8 +177,8 @@ const SignUp = () => {
                 Trusted by online Shoppers
               </span>
               <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab omnis
-              nisi dolor recusandae consectetur!
+              Enter your details to continue shopping with us and unlock
+              personalized recommendations and order tracking.
             </p>
           </div>
           <div className="flex items-center justify-between mt-10">
