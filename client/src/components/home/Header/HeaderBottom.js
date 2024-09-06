@@ -60,13 +60,13 @@ const HeaderBottom = () => {
               >
                 <Link to={"category/imprimante"}>
                   <li className="text-gray-400 px-4 py-1 border-b-[1px] border-b-gray-400 hover:border-b-white hover:text-white duration-300 cursor-pointer">
-                    popularity
+                    Printer
                   </li>
                 </Link>
 
                 <Link to={"category/ancre"}>
                   <li className="text-gray-400 px-4 py-1 border-b-[1px] border-b-gray-400 hover:border-b-white hover:text-white duration-300 cursor-pointer">
-                    popular
+                    Ink
                   </li>
                 </Link>
                 <Link to={"category/Ruban"}>
