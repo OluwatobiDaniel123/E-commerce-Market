@@ -44,7 +44,7 @@ const CustomSlide = ({ Subtext, imgSrc, text, buttonLink, buttonText }) => (
         {Subtext}
       </p>
 
-      <Link to="/about">
+      <Link to={buttonLink}>
         <button className="bg-primeColor text-white text-lg font-bodyFont w-[185px] h-[50px] hover:bg-black duration-300 font-bold">
           {buttonText}
         </button>
@@ -155,7 +155,7 @@ const Banner = () => {
       text: "Enhance Your Printing Experience",
       Subtext:
         "Explore our premium printers and consumables for exceptional results",
-      buttonLink: "/offer",
+      buttonLink: "/shop",
       buttonText: "Shop Now",
     },
     {
