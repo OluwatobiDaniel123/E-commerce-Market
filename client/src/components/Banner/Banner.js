@@ -22,6 +22,7 @@ const CustomSlide = ({ Subtext, imgSrc, text, buttonLink, buttonText }) => (
       style={{
         maxWidth: "450px", // Adjust the maxWidth as needed
         marginRight: "100px", // Add margin between text/button and image
+        padding: "20px",
       }}
     >
       <h1
