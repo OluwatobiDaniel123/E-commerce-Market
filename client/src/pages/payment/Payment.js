@@ -41,7 +41,7 @@ const Payment = () => {
         <form
           action=""
           onSubmit={HandleSUbmit}
-          className="w-full lgl:w-[450px] h-screen flex items-center justify-center"
+          className="w-full lgl:w-[450px] flex items-center justify-center"
         >
           <div className="px-6 py-4 w-full h-[90%] flex flex-col justify-center overflow-y-scroll scrollbar-thin scrollbar-thumb-primeColor">
             <h1 className="font-titleFont underline underline-offset-4 decoration-[1px] font-semibold text-3xl mdl:text-4xl mb-4">

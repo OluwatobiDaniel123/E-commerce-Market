@@ -50,7 +50,7 @@ const CustomSlide = ({ Subtext, imgSrc, text, buttonLink, buttonText }) => (
         </button>
       </Link>
     </div>
-    <div style={{ marginLeft: "100px" }}>
+    <div style={{ marginLeft: "-10px" }}>
       <Image imgSrc={imgSrc} />
     </div>
   </div>
@@ -78,7 +78,7 @@ const Banner = () => {
           transform: "translateY(-50%)",
         }}
       >
-        <ul style={{ margin: "0px" }}> {dots} </ul>
+        {/* <ul style={{ margin: "0px" }}> {dots} </ul> */}
       </div>
     ),
     customPaging: (i) => (
@@ -102,6 +102,7 @@ const Banner = () => {
         }
       >
         0{i + 1}
+        //{" "}
       </div>
     ),
     responsive: [
@@ -118,7 +119,7 @@ const Banner = () => {
                 transform: "translateY(-50%)",
               }}
             >
-              <ul style={{ margin: "0px" }}> {dots} </ul>
+              {/* <ul style={{ margin: "0px" }}> {dots} </ul> */}
             </div>
           ),
           customPaging: (i) => (
